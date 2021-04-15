@@ -6,9 +6,9 @@ To help process this data, I will created machine learning models capable of cla
 
 In this homework assignment, I was required to perform the following tasks:
 
-Preprocess the raw data
-Tune the models
-Compare two or more models
+- Preprocess the raw data
+- Tune the models
+- Compare two or more models
 
 
 
