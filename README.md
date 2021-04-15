@@ -12,7 +12,7 @@ Compare two or more models
 
 
 
-#####Preprocess the Data
+##### Preprocess the Data
 
 Preprocess the dataset prior to fitting the model.
 Perform feature selection and remove unnecessary features.
@@ -20,13 +20,13 @@ Use MinMaxScaler to scale the numerical data.
 Separate the data into training and testing data.
 
 
-#####Tune Model Parameters
+##### Tune Model Parameters
 
 Use GridSearch to tune model parameters.
 Tune and compare at least two different classifiers.
 
 
-#####Reporting
+##### Reporting
 
 Report a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
 
